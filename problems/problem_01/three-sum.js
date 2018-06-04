@@ -7,7 +7,7 @@ const threeSum = (nums, target) => {
       for(var j=i+1 ;j<nums.length-1;j++){
         for(var k=j+1;k<nums.length;k++){
           if(nums[i]+nums[j]+nums[k]==target){
-            SubArray.push([Math.abs(nums[i]),Math.abs(nums[j]),Math.abs(nums[k])]);
+            SubArray.push([i,j,k]);
           }
         }
       }

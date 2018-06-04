@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="edb7cb1d-3ded-4e64-b80f-d724f571e286" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problems/problem_02/max-floor.js" beforeDir="false" afterPath="$PROJECT_DIR$/problems/problem_02/max-floor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problems/problem_01/three-sum.js" beforeDir="false" afterPath="$PROJECT_DIR$/problems/problem_01/three-sum.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -73,8 +72,8 @@
       <file leaf-file-name="three-sum.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/problems/problem_01/three-sum.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="5" lean-forward="true" selection-end-line="19" />
+            <state relative-caret-position="135">
+              <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -196,12 +195,12 @@
       <option name="presentableId" value="Default" />
       <updated>1528095756256</updated>
       <workItem from="1528095758165" duration="4486000" />
-      <workItem from="1528100801053" duration="1169000" />
+      <workItem from="1528100801053" duration="1509000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5655000" />
+    <option name="totallyTimeSpent" value="5995000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -304,6 +303,9 @@
     <entry file="file://$PROJECT_DIR$/problems/problem_02/max-floor.test.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/problems/problem_01/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/problems/problem_02/max-floor.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -311,13 +313,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/problems/problem_01/index.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/problems/problem_01/three-sum.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="5" lean-forward="true" selection-end-line="19" />
+        <state relative-caret-position="135">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
         </state>
       </provider>
     </entry>
